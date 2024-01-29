@@ -1,4 +1,4 @@
-Year	Fund Value
+Year	Fund_Value
 1995	100000.00
 1995	105896.00
 1996	142513.00
