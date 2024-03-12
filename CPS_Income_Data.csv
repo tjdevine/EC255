@@ -1,0 +1,1001 @@
+INCWAGE,AGE,EDU,SEX_var
+30000,31,High School Graduate,Female
+100000,53,High School Graduate,Male
+4000,36,College Graduate,Female
+10000,51,High School Graduate,Male
+40000,31,College Graduate,Female
+9600,32,College Graduate,Male
+45000,30,College Graduate,Female
+70000,57,High School Graduate,Male
+34000,46,High School Graduate,Female
+30000,36,High School Graduate,Female
+100000,31,College Graduate,Female
+48000,61,High School Graduate,Male
+20000,63,College Graduate,Male
+45000,27,High School Graduate,Female
+3000,62,High School Graduate,Female
+51000,48,College Graduate,Female
+49000,53,High School Graduate,Male
+98000,59,High School Graduate,Male
+24000,62,High School Graduate,Female
+18000,53,High School Graduate,Female
+44000,43,High School Graduate,Male
+150000,62,College Graduate,Male
+109000,30,College Graduate,Female
+20000,46,College Graduate,Female
+109000,63,College Graduate,Male
+60000,47,High School Graduate,Male
+90000,55,High School Graduate,Male
+9900,42,High School Graduate,Male
+54000,48,College Graduate,Female
+40000,45,High School Graduate,Female
+30000,60,High School Graduate,Female
+18000,60,High School Graduate,Male
+108000,60,College Graduate,Female
+19000,34,High School Graduate,Male
+76000,53,College Graduate,Male
+8000,39,High School Graduate,Female
+28000,60,High School Graduate,Female
+55000,62,High School Graduate,Male
+50000,31,High School Graduate,Male
+100000,52,College Graduate,Female
+75000,26,College Graduate,Female
+60000,55,High School Graduate,Male
+67000,56,High School Graduate,Male
+45000,52,High School Graduate,Female
+95000,31,College Graduate,Female
+70000,61,High School Graduate,Male
+135000,40,College Graduate,Female
+40000,60,College Graduate,Female
+145000,48,College Graduate,Male
+31000,35,College Graduate,Female
+110000,57,College Graduate,Male
+7000,56,High School Graduate,Female
+45000,53,High School Graduate,Male
+43500,30,College Graduate,Female
+54000,60,High School Graduate,Female
+52000,28,High School Graduate,Female
+486000,34,College Graduate,Male
+45300,32,High School Graduate,Male
+50000,28,High School Graduate,Male
+56000,29,College Graduate,Female
+14900,48,High School Graduate,Female
+25000,63,High School Graduate,Female
+120000,30,College Graduate,Male
+32000,46,High School Graduate,Female
+23000,62,High School Graduate,Female
+5000,35,College Graduate,Female
+45000,41,High School Graduate,Male
+68000,43,College Graduate,Male
+3300,51,High School Graduate,Female
+24000,55,High School Graduate,Female
+180000,46,College Graduate,Female
+129000,32,College Graduate,Male
+30000,52,High School Graduate,Male
+42500,45,High School Graduate,Male
+20000,46,College Graduate,Male
+113000,33,College Graduate,Female
+53000,58,High School Graduate,Male
+22400,60,College Graduate,Female
+115000,55,College Graduate,Male
+20000,36,High School Graduate,Female
+10000,27,High School Graduate,Female
+37000,30,College Graduate,Male
+350000,37,College Graduate,Male
+72000,56,High School Graduate,Male
+22400,41,High School Graduate,Female
+125000,56,College Graduate,Male
+21900,42,High School Graduate,Male
+48000,61,High School Graduate,Male
+32000,57,High School Graduate,Male
+30000,33,College Graduate,Female
+77000,47,High School Graduate,Male
+156000,42,High School Graduate,Male
+39500,40,High School Graduate,Female
+10000,30,High School Graduate,Female
+54000,36,College Graduate,Female
+60000,36,College Graduate,Male
+50000,27,High School Graduate,Female
+84000,37,College Graduate,Male
+45000,28,College Graduate,Female
+60000,51,High School Graduate,Male
+40000,26,College Graduate,Male
+150000,39,College Graduate,Female
+73000,59,High School Graduate,Female
+20000,62,High School Graduate,Female
+7000,52,College Graduate,Female
+6700,45,College Graduate,Male
+85000,35,College Graduate,Female
+110000,28,High School Graduate,Female
+30000,31,College Graduate,Female
+54000,46,College Graduate,Male
+426000,50,College Graduate,Male
+41000,58,High School Graduate,Male
+37000,47,College Graduate,Female
+20000,32,College Graduate,Female
+65000,27,College Graduate,Female
+70000,52,High School Graduate,Male
+100000,30,College Graduate,Male
+28000,29,College Graduate,Female
+65000,60,High School Graduate,Female
+8000,42,College Graduate,Female
+51000,50,College Graduate,Male
+170000,33,College Graduate,Male
+40000,63,High School Graduate,Male
+15000,32,High School Graduate,Male
+141000,48,High School Graduate,Male
+50000,26,College Graduate,Female
+130000,54,College Graduate,Female
+40000,29,College Graduate,Female
+40000,54,College Graduate,Female
+130000,62,High School Graduate,Male
+100000,60,High School Graduate,Male
+37000,31,High School Graduate,Female
+42000,33,College Graduate,Male
+165000,53,College Graduate,Male
+90000,51,High School Graduate,Male
+10000,46,College Graduate,Female
+140000,56,High School Graduate,Male
+20000,57,College Graduate,Female
+60000,29,High School Graduate,Male
+45000,59,High School Graduate,Male
+358000,36,High School Graduate,Male
+80000,51,High School Graduate,Male
+97000,62,College Graduate,Male
+28800,49,High School Graduate,Male
+60000,56,High School Graduate,Male
+48000,26,College Graduate,Female
+40000,36,High School Graduate,Female
+20800,39,High School Graduate,Female
+36000,51,High School Graduate,Male
+43000,48,College Graduate,Female
+27000,26,High School Graduate,Male
+45000,54,High School Graduate,Female
+3000,46,High School Graduate,Male
+90000,42,High School Graduate,Male
+12500,48,High School Graduate,Female
+30000,60,High School Graduate,Female
+18000,56,College Graduate,Female
+31000,32,College Graduate,Female
+90000,38,College Graduate,Male
+65000,60,High School Graduate,Female
+260000,35,College Graduate,Female
+15000,34,High School Graduate,Female
+15500,60,High School Graduate,Male
+120000,50,College Graduate,Female
+112000,29,College Graduate,Male
+35000,60,High School Graduate,Female
+19200,44,High School Graduate,Male
+33000,39,High School Graduate,Female
+50000,39,High School Graduate,Male
+7000,62,High School Graduate,Female
+15000,46,High School Graduate,Female
+2000,36,High School Graduate,Female
+200000,61,College Graduate,Male
+38500,60,High School Graduate,Male
+4000,54,High School Graduate,Male
+25000,57,High School Graduate,Male
+55000,59,High School Graduate,Female
+5000,36,High School Graduate,Male
+58000,41,High School Graduate,Female
+51000,36,High School Graduate,Male
+24000,61,High School Graduate,Female
+76000,55,High School Graduate,Male
+4700,58,High School Graduate,Male
+24000,37,College Graduate,Female
+40000,46,High School Graduate,Male
+70000,52,College Graduate,Female
+80000,39,College Graduate,Male
+10100,29,High School Graduate,Female
+30000,35,College Graduate,Female
+32600,58,College Graduate,Female
+38000,44,High School Graduate,Female
+76000,38,College Graduate,Male
+99000,52,College Graduate,Male
+15000,52,High School Graduate,Female
+14500,57,High School Graduate,Male
+100000,45,College Graduate,Male
+12000,59,High School Graduate,Female
+130000,32,High School Graduate,Male
+50000,32,High School Graduate,Female
+24800,44,High School Graduate,Female
+36000,39,College Graduate,Female
+41000,57,College Graduate,Female
+50000,46,High School Graduate,Male
+44000,40,College Graduate,Male
+38300,38,High School Graduate,Male
+50000,54,High School Graduate,Male
+45000,31,High School Graduate,Male
+9500,42,College Graduate,Female
+70000,27,High School Graduate,Female
+43000,56,High School Graduate,Female
+130000,53,College Graduate,Male
+5000,37,High School Graduate,Male
+50000,38,College Graduate,Female
+38000,27,High School Graduate,Male
+78000,30,College Graduate,Female
+50000,55,College Graduate,Male
+100000,46,College Graduate,Male
+50000,34,College Graduate,Male
+40000,58,High School Graduate,Female
+100000,53,College Graduate,Male
+43700,56,High School Graduate,Male
+2000,57,High School Graduate,Male
+157000,52,College Graduate,Male
+62000,50,High School Graduate,Female
+320000,47,College Graduate,Female
+28000,33,High School Graduate,Male
+30000,43,High School Graduate,Male
+140000,46,High School Graduate,Male
+28500,31,High School Graduate,Male
+56000,55,High School Graduate,Male
+88000,29,High School Graduate,Male
+85000,59,High School Graduate,Male
+40000,32,College Graduate,Female
+32000,45,High School Graduate,Male
+35500,56,High School Graduate,Male
+28000,36,College Graduate,Male
+11700,50,High School Graduate,Male
+95000,31,College Graduate,Male
+627000,62,College Graduate,Male
+3500,30,High School Graduate,Female
+1200,27,College Graduate,Female
+47700,34,High School Graduate,Male
+20000,63,High School Graduate,Male
+124000,54,College Graduate,Male
+45000,33,College Graduate,Female
+50000,44,College Graduate,Female
+186000,36,College Graduate,Male
+190000,53,High School Graduate,Male
+110000,53,High School Graduate,Male
+10500,32,High School Graduate,Female
+5000,32,College Graduate,Male
+60000,58,College Graduate,Female
+16200,30,High School Graduate,Female
+60000,45,High School Graduate,Male
+65000,46,High School Graduate,Male
+98000,43,College Graduate,Female
+12000,56,High School Graduate,Female
+22000,45,High School Graduate,Female
+26000,43,High School Graduate,Male
+30000,26,College Graduate,Male
+41000,56,College Graduate,Female
+28000,54,High School Graduate,Female
+75000,35,College Graduate,Female
+35000,57,College Graduate,Male
+60000,37,College Graduate,Female
+42000,31,College Graduate,Male
+42000,60,High School Graduate,Male
+30800,53,High School Graduate,Female
+100000,59,College Graduate,Female
+15800,35,High School Graduate,Female
+25200,45,College Graduate,Female
+150000,38,College Graduate,Male
+60000,31,College Graduate,Male
+16500,30,High School Graduate,Male
+7800,35,College Graduate,Female
+150000,28,College Graduate,Male
+20000,47,College Graduate,Male
+35000,50,High School Graduate,Male
+36000,51,High School Graduate,Male
+105000,29,College Graduate,Female
+4300,47,High School Graduate,Female
+70000,39,High School Graduate,Male
+502000,50,College Graduate,Male
+75000,43,High School Graduate,Male
+108000,46,College Graduate,Male
+125000,60,College Graduate,Female
+54000,54,High School Graduate,Male
+52000,26,College Graduate,Female
+101000,56,High School Graduate,Female
+10000,46,High School Graduate,Male
+40000,33,College Graduate,Female
+20000,56,High School Graduate,Female
+12500,42,College Graduate,Female
+48000,54,High School Graduate,Male
+35000,51,High School Graduate,Female
+48000,32,College Graduate,Female
+39700,63,High School Graduate,Female
+35000,39,High School Graduate,Male
+100000,34,College Graduate,Male
+35000,32,College Graduate,Female
+18000,63,High School Graduate,Female
+36000,60,High School Graduate,Male
+12400,29,College Graduate,Male
+1600,48,High School Graduate,Female
+31400,29,High School Graduate,Female
+75000,63,High School Graduate,Male
+20000,45,College Graduate,Male
+140000,35,College Graduate,Female
+28800,26,High School Graduate,Female
+25000,47,High School Graduate,Male
+11800,31,College Graduate,Female
+17900,60,High School Graduate,Male
+22500,51,College Graduate,Female
+40000,34,High School Graduate,Female
+48500,33,College Graduate,Female
+15600,63,High School Graduate,Female
+76000,52,College Graduate,Female
+76000,60,College Graduate,Female
+30000,41,High School Graduate,Female
+120000,32,College Graduate,Male
+31200,26,High School Graduate,Male
+15000,60,High School Graduate,Female
+5000,50,High School Graduate,Male
+86000,30,College Graduate,Female
+100000,28,College Graduate,Male
+26000,61,High School Graduate,Female
+40000,35,High School Graduate,Male
+21000,62,High School Graduate,Male
+30000,30,High School Graduate,Male
+200000,50,High School Graduate,Female
+47200,60,College Graduate,Female
+35000,47,High School Graduate,Female
+50000,30,College Graduate,Female
+93000,58,College Graduate,Female
+45000,41,High School Graduate,Male
+100000,46,College Graduate,Female
+51000,36,High School Graduate,Male
+100000,52,High School Graduate,Male
+112000,34,High School Graduate,Male
+220000,62,High School Graduate,Male
+100000,27,College Graduate,Female
+80000,36,High School Graduate,Male
+50000,38,High School Graduate,Female
+39500,37,High School Graduate,Male
+49400,48,High School Graduate,Male
+125000,48,College Graduate,Female
+30000,43,High School Graduate,Male
+35000,54,High School Graduate,Female
+125000,29,College Graduate,Male
+45000,56,High School Graduate,Female
+120000,52,College Graduate,Female
+634000,36,College Graduate,Male
+60000,40,High School Graduate,Female
+502000,30,College Graduate,Male
+90000,40,High School Graduate,Female
+52000,30,High School Graduate,Male
+59000,59,College Graduate,Female
+85000,53,High School Graduate,Female
+18000,50,High School Graduate,Male
+21000,58,High School Graduate,Male
+11000,51,High School Graduate,Female
+27000,55,High School Graduate,Male
+75000,60,College Graduate,Female
+26000,27,High School Graduate,Male
+11400,46,High School Graduate,Female
+27000,43,High School Graduate,Male
+76000,40,College Graduate,Male
+89000,52,High School Graduate,Male
+37000,56,College Graduate,Female
+50000,29,College Graduate,Female
+34000,49,High School Graduate,Male
+10000,59,College Graduate,Male
+50000,59,High School Graduate,Male
+99000,57,College Graduate,Male
+140000,43,College Graduate,Female
+60000,37,College Graduate,Female
+55000,42,College Graduate,Male
+80000,49,College Graduate,Male
+101000,43,High School Graduate,Male
+60000,48,College Graduate,Male
+30000,45,High School Graduate,Male
+88000,58,College Graduate,Male
+36000,32,High School Graduate,Male
+18000,60,High School Graduate,Female
+55000,46,High School Graduate,Male
+78000,38,College Graduate,Female
+24000,61,High School Graduate,Female
+27400,56,High School Graduate,Male
+100000,34,College Graduate,Male
+40000,61,High School Graduate,Female
+35000,32,High School Graduate,Female
+40000,59,High School Graduate,Male
+135000,52,College Graduate,Male
+2000,58,High School Graduate,Female
+39000,35,High School Graduate,Female
+97000,49,College Graduate,Male
+10800,43,High School Graduate,Female
+787000,60,College Graduate,Female
+10000,53,High School Graduate,Female
+40000,42,College Graduate,Female
+120000,60,College Graduate,Male
+88000,54,College Graduate,Male
+30000,27,High School Graduate,Male
+19000,60,High School Graduate,Female
+2700,40,College Graduate,Male
+62000,52,High School Graduate,Male
+30200,53,College Graduate,Female
+60000,38,College Graduate,Male
+71000,28,High School Graduate,Male
+50000,37,High School Graduate,Male
+25000,60,College Graduate,Female
+11000,58,High School Graduate,Female
+15000,58,High School Graduate,Female
+25000,48,High School Graduate,Female
+170000,47,College Graduate,Female
+4000,60,College Graduate,Female
+20000,38,High School Graduate,Male
+40000,26,College Graduate,Male
+86000,34,College Graduate,Female
+350000,44,College Graduate,Female
+30700,30,College Graduate,Female
+78000,60,High School Graduate,Male
+50000,62,High School Graduate,Female
+93000,55,College Graduate,Male
+26900,27,College Graduate,Female
+3600,43,High School Graduate,Male
+69000,56,College Graduate,Female
+59000,42,College Graduate,Female
+23000,51,High School Graduate,Male
+30000,27,High School Graduate,Female
+16300,37,High School Graduate,Male
+16000,34,High School Graduate,Male
+18000,55,High School Graduate,Female
+10000,39,High School Graduate,Female
+77000,43,High School Graduate,Male
+40000,29,College Graduate,Male
+32200,28,High School Graduate,Female
+60000,33,High School Graduate,Female
+36000,60,High School Graduate,Female
+98000,47,College Graduate,Female
+36400,29,High School Graduate,Male
+12500,26,High School Graduate,Female
+200000,34,College Graduate,Male
+150000,45,College Graduate,Female
+114000,45,High School Graduate,Male
+6000,40,High School Graduate,Female
+75000,62,College Graduate,Female
+35000,55,High School Graduate,Male
+68000,57,College Graduate,Male
+85000,31,College Graduate,Male
+225000,59,College Graduate,Male
+15000,36,College Graduate,Female
+45000,36,High School Graduate,Female
+55000,50,College Graduate,Female
+28000,47,High School Graduate,Female
+96000,50,High School Graduate,Male
+15000,44,High School Graduate,Female
+75000,33,College Graduate,Female
+45000,29,High School Graduate,Male
+45000,58,High School Graduate,Male
+75000,46,College Graduate,Male
+32000,32,College Graduate,Female
+96000,45,College Graduate,Male
+90000,36,College Graduate,Male
+32000,37,High School Graduate,Male
+10000,45,High School Graduate,Female
+1600,37,High School Graduate,Male
+50000,27,College Graduate,Female
+270000,58,College Graduate,Male
+115000,62,High School Graduate,Female
+31600,29,High School Graduate,Female
+30000,54,High School Graduate,Male
+65000,41,College Graduate,Male
+5000,46,High School Graduate,Female
+25900,35,High School Graduate,Male
+10000,29,High School Graduate,Female
+83000,38,College Graduate,Female
+40000,44,High School Graduate,Male
+90000,36,College Graduate,Male
+22200,42,High School Graduate,Female
+25000,54,High School Graduate,Male
+67000,26,College Graduate,Female
+30000,43,High School Graduate,Female
+10400,42,High School Graduate,Male
+52000,40,High School Graduate,Male
+135000,59,College Graduate,Male
+28000,31,College Graduate,Male
+5000,50,High School Graduate,Female
+3400,63,High School Graduate,Female
+469000,41,College Graduate,Male
+1300,52,College Graduate,Male
+55000,27,High School Graduate,Male
+120000,30,College Graduate,Female
+80000,62,College Graduate,Female
+80000,37,College Graduate,Female
+90000,55,High School Graduate,Male
+52000,32,College Graduate,Female
+219000,58,High School Graduate,Male
+180000,37,College Graduate,Male
+40000,38,College Graduate,Female
+40000,34,High School Graduate,Male
+1900,48,High School Graduate,Female
+60000,43,High School Graduate,Female
+75000,27,High School Graduate,Male
+22000,56,High School Graduate,Female
+83000,43,College Graduate,Male
+60000,31,High School Graduate,Male
+80000,51,College Graduate,Female
+80000,57,High School Graduate,Female
+72000,34,High School Graduate,Male
+35000,42,High School Graduate,Male
+72000,46,High School Graduate,Female
+50000,43,High School Graduate,Male
+50000,55,College Graduate,Female
+67000,51,College Graduate,Male
+75000,49,College Graduate,Female
+245000,54,College Graduate,Female
+25000,62,High School Graduate,Female
+30000,54,College Graduate,Female
+92000,62,High School Graduate,Male
+13900,44,High School Graduate,Male
+42000,54,College Graduate,Male
+87000,32,High School Graduate,Male
+8000,31,College Graduate,Female
+682000,32,College Graduate,Male
+58000,63,High School Graduate,Male
+41000,31,College Graduate,Male
+25000,41,College Graduate,Male
+26000,60,High School Graduate,Female
+46800,27,High School Graduate,Male
+15000,53,High School Graduate,Female
+200000,61,High School Graduate,Male
+5000,33,High School Graduate,Female
+65000,53,College Graduate,Male
+36000,27,High School Graduate,Male
+10800,38,High School Graduate,Male
+44000,32,College Graduate,Male
+40000,49,College Graduate,Male
+40000,44,High School Graduate,Female
+38000,32,High School Graduate,Male
+75000,40,College Graduate,Female
+13000,48,High School Graduate,Female
+45000,38,High School Graduate,Male
+50000,30,High School Graduate,Female
+160000,37,College Graduate,Female
+100000,30,High School Graduate,Male
+45900,41,High School Graduate,Male
+34000,59,High School Graduate,Female
+63000,59,High School Graduate,Male
+75000,57,High School Graduate,Male
+70000,45,High School Graduate,Female
+20000,60,College Graduate,Female
+60000,48,High School Graduate,Male
+42000,31,College Graduate,Female
+27000,27,High School Graduate,Male
+40000,40,High School Graduate,Female
+80000,55,High School Graduate,Male
+6200,49,High School Graduate,Male
+30000,34,High School Graduate,Female
+420000,48,College Graduate,Male
+52000,28,High School Graduate,Male
+70000,34,High School Graduate,Male
+4000,55,High School Graduate,Female
+120000,55,High School Graduate,Male
+26000,59,High School Graduate,Female
+31000,38,College Graduate,Female
+2000,32,High School Graduate,Male
+100000,32,College Graduate,Female
+50000,26,High School Graduate,Male
+55000,29,College Graduate,Male
+60000,44,College Graduate,Male
+75000,35,College Graduate,Female
+37400,26,College Graduate,Female
+21000,29,High School Graduate,Female
+100000,34,College Graduate,Male
+24000,55,High School Graduate,Male
+13800,45,High School Graduate,Male
+60000,46,High School Graduate,Male
+80000,35,High School Graduate,Male
+67000,55,College Graduate,Female
+60000,56,College Graduate,Female
+22000,47,College Graduate,Female
+39000,26,High School Graduate,Male
+80000,36,College Graduate,Female
+20000,31,College Graduate,Male
+180000,53,High School Graduate,Male
+8000,47,High School Graduate,Female
+40100,32,High School Graduate,Male
+7400,51,High School Graduate,Female
+90000,36,College Graduate,Female
+9000,46,High School Graduate,Female
+16000,28,College Graduate,Female
+29800,63,College Graduate,Female
+140000,28,College Graduate,Male
+33000,30,College Graduate,Male
+30000,36,High School Graduate,Female
+26000,41,High School Graduate,Female
+30000,36,High School Graduate,Female
+20000,37,High School Graduate,Female
+1500,36,College Graduate,Female
+32000,29,College Graduate,Female
+200000,49,College Graduate,Female
+41500,47,College Graduate,Female
+6000,30,High School Graduate,Female
+60000,57,High School Graduate,Male
+29000,57,College Graduate,Male
+2500,42,High School Graduate,Male
+52000,52,High School Graduate,Female
+58000,26,College Graduate,Male
+78000,40,College Graduate,Male
+68000,27,College Graduate,Male
+50000,40,College Graduate,Male
+33600,29,High School Graduate,Male
+23100,48,High School Graduate,Female
+75000,31,High School Graduate,Male
+85000,59,College Graduate,Female
+74000,36,College Graduate,Female
+390000,49,College Graduate,Female
+26600,59,High School Graduate,Female
+38000,61,High School Graduate,Female
+70000,50,High School Graduate,Female
+72000,33,College Graduate,Male
+13300,60,High School Graduate,Female
+100000,45,High School Graduate,Male
+60000,31,College Graduate,Female
+80000,30,College Graduate,Female
+165000,49,College Graduate,Female
+24000,52,High School Graduate,Male
+30000,43,High School Graduate,Male
+50000,28,High School Graduate,Female
+20300,51,High School Graduate,Female
+72000,34,College Graduate,Female
+83000,40,College Graduate,Female
+37000,56,College Graduate,Female
+135000,46,College Graduate,Male
+5000,39,High School Graduate,Male
+40000,37,High School Graduate,Male
+100000,40,College Graduate,Male
+15000,61,College Graduate,Male
+22800,26,High School Graduate,Male
+52000,53,High School Graduate,Male
+12000,27,College Graduate,Female
+26700,58,High School Graduate,Female
+35100,52,High School Graduate,Female
+47000,59,College Graduate,Female
+7100,27,High School Graduate,Female
+110000,46,High School Graduate,Male
+7200,28,College Graduate,Female
+100000,41,College Graduate,Male
+33000,30,College Graduate,Female
+60000,38,High School Graduate,Male
+114000,49,High School Graduate,Female
+15000,28,High School Graduate,Female
+74000,48,High School Graduate,Male
+67000,59,College Graduate,Female
+50000,31,College Graduate,Male
+50000,32,High School Graduate,Male
+50000,27,High School Graduate,Female
+65000,28,College Graduate,Female
+102000,40,College Graduate,Male
+42000,51,High School Graduate,Female
+60000,57,College Graduate,Female
+125000,59,College Graduate,Female
+17000,57,College Graduate,Female
+60000,46,College Graduate,Female
+100000,56,College Graduate,Female
+35000,61,High School Graduate,Female
+90000,35,College Graduate,Male
+20000,37,College Graduate,Female
+92000,40,College Graduate,Male
+16500,59,High School Graduate,Female
+180000,47,College Graduate,Female
+30000,54,High School Graduate,Female
+45000,35,College Graduate,Male
+25000,26,High School Graduate,Female
+11700,44,College Graduate,Female
+16000,51,College Graduate,Male
+64000,37,College Graduate,Male
+31800,33,College Graduate,Female
+110000,45,College Graduate,Male
+55000,54,High School Graduate,Male
+40000,43,College Graduate,Male
+28000,40,High School Graduate,Female
+489000,26,High School Graduate,Male
+38000,59,High School Graduate,Female
+10000,61,College Graduate,Male
+35000,26,College Graduate,Male
+49200,46,High School Graduate,Female
+45000,63,High School Graduate,Male
+90000,50,High School Graduate,Male
+94000,45,College Graduate,Male
+58000,37,High School Graduate,Male
+22000,42,High School Graduate,Male
+3000,45,High School Graduate,Female
+16000,42,High School Graduate,Female
+41000,46,High School Graduate,Male
+120000,57,High School Graduate,Male
+19000,45,High School Graduate,Male
+20000,27,College Graduate,Male
+88000,48,College Graduate,Female
+45000,51,High School Graduate,Male
+100000,50,High School Graduate,Male
+36000,27,High School Graduate,Female
+117000,41,College Graduate,Male
+26200,31,High School Graduate,Female
+140000,36,High School Graduate,Male
+155000,30,College Graduate,Male
+6400,35,High School Graduate,Female
+105000,37,College Graduate,Male
+58000,27,College Graduate,Female
+52000,56,College Graduate,Female
+22000,62,High School Graduate,Female
+65000,60,High School Graduate,Male
+35000,49,High School Graduate,Male
+85000,35,College Graduate,Male
+100000,56,College Graduate,Male
+3000,32,College Graduate,Female
+78000,50,High School Graduate,Male
+131000,32,College Graduate,Male
+50000,26,High School Graduate,Male
+57000,57,High School Graduate,Female
+22000,31,High School Graduate,Male
+15000,44,High School Graduate,Male
+20000,32,College Graduate,Female
+53000,38,High School Graduate,Male
+30000,31,High School Graduate,Female
+48000,62,High School Graduate,Female
+70000,57,High School Graduate,Female
+65000,28,High School Graduate,Male
+80000,45,High School Graduate,Male
+110000,34,College Graduate,Male
+67000,34,College Graduate,Female
+34600,28,High School Graduate,Male
+5000,42,College Graduate,Female
+46800,36,College Graduate,Male
+60000,46,College Graduate,Male
+27000,33,High School Graduate,Male
+60000,54,High School Graduate,Male
+56000,54,High School Graduate,Male
+2600,45,High School Graduate,Male
+36000,40,High School Graduate,Male
+250000,60,College Graduate,Male
+95000,33,College Graduate,Female
+40000,27,High School Graduate,Male
+160000,61,College Graduate,Male
+6000,60,College Graduate,Female
+110000,31,College Graduate,Female
+100000,63,College Graduate,Male
+150000,53,High School Graduate,Female
+20000,39,High School Graduate,Male
+230000,43,College Graduate,Male
+26000,48,High School Graduate,Female
+140000,63,College Graduate,Female
+76000,49,College Graduate,Female
+80000,46,College Graduate,Female
+50000,58,College Graduate,Female
+29000,33,High School Graduate,Female
+20000,34,High School Graduate,Male
+65000,47,College Graduate,Female
+40000,29,College Graduate,Male
+32900,33,College Graduate,Female
+119000,55,High School Graduate,Male
+35000,40,College Graduate,Female
+70000,35,College Graduate,Male
+40000,27,High School Graduate,Male
+65000,30,College Graduate,Female
+41100,52,High School Graduate,Male
+6000,29,High School Graduate,Male
+145000,45,College Graduate,Female
+38000,59,High School Graduate,Male
+55000,42,High School Graduate,Male
+52000,57,College Graduate,Male
+5300,59,College Graduate,Female
+40000,59,High School Graduate,Female
+61000,35,College Graduate,Female
+35000,54,College Graduate,Male
+48000,29,High School Graduate,Male
+79000,52,College Graduate,Female
+140000,34,College Graduate,Male
+70000,34,College Graduate,Female
+15000,49,College Graduate,Female
+24800,46,High School Graduate,Female
+62000,57,High School Graduate,Male
+62000,52,High School Graduate,Female
+241000,42,College Graduate,Male
+93000,35,College Graduate,Male
+36000,60,High School Graduate,Female
+110000,48,College Graduate,Male
+25000,40,High School Graduate,Female
+43000,27,High School Graduate,Male
+15200,46,High School Graduate,Female
+101000,35,College Graduate,Female
+62000,60,High School Graduate,Female
+80000,42,College Graduate,Male
+40800,27,College Graduate,Male
+40000,55,High School Graduate,Male
+12000,52,College Graduate,Female
+39800,52,High School Graduate,Female
+40000,56,High School Graduate,Male
+106000,52,College Graduate,Male
+10000,60,College Graduate,Female
+63000,32,High School Graduate,Male
+60000,30,College Graduate,Male
+42000,52,High School Graduate,Male
+33000,30,High School Graduate,Male
+49000,46,High School Graduate,Male
+8500,46,College Graduate,Male
+49600,37,High School Graduate,Male
+200000,37,College Graduate,Male
+15000,34,High School Graduate,Male
+84000,33,College Graduate,Male
+60000,62,High School Graduate,Female
+52000,36,High School Graduate,Male
+180000,49,College Graduate,Female
+150000,35,High School Graduate,Male
+42000,49,High School Graduate,Male
+35000,35,High School Graduate,Male
+150000,54,College Graduate,Female
+95000,55,High School Graduate,Male
+56000,62,High School Graduate,Female
+38000,55,College Graduate,Female
+32000,27,High School Graduate,Female
+25000,36,College Graduate,Male
+40000,30,College Graduate,Female
+21000,31,High School Graduate,Male
+80000,36,High School Graduate,Male
+6100,32,High School Graduate,Female
+80000,54,College Graduate,Female
+12000,54,High School Graduate,Female
+568000,30,College Graduate,Female
+32000,31,College Graduate,Male
+100000,59,College Graduate,Female
+13800,40,High School Graduate,Female
+40000,41,High School Graduate,Male
+140000,49,High School Graduate,Male
+30700,51,High School Graduate,Female
+43000,34,College Graduate,Female
+70000,40,High School Graduate,Male
+7500,57,High School Graduate,Male
+65000,39,College Graduate,Male
+45000,30,High School Graduate,Male
+70000,46,High School Graduate,Male
+99000,55,College Graduate,Male
+133000,40,College Graduate,Male
+32000,59,High School Graduate,Male
+5500,41,High School Graduate,Female
+127000,50,College Graduate,Female
+24000,58,College Graduate,Female
+35000,43,High School Graduate,Female
+40000,59,High School Graduate,Male
+70000,50,High School Graduate,Male
+26400,63,High School Graduate,Female
+10600,26,High School Graduate,Male
+19000,49,College Graduate,Female
+80000,47,High School Graduate,Female
+60000,34,College Graduate,Male
+40000,52,High School Graduate,Male
+60000,42,College Graduate,Female
+45000,55,High School Graduate,Female
+56000,47,College Graduate,Female
+84000,48,College Graduate,Female
+40000,60,High School Graduate,Male
+132000,52,College Graduate,Male
+35000,34,College Graduate,Male
+40000,31,High School Graduate,Male
+96000,31,College Graduate,Male
+94000,35,College Graduate,Male
+150000,34,High School Graduate,Male
+1400,52,High School Graduate,Male
+110000,39,High School Graduate,Male
+130000,58,College Graduate,Male
+50000,35,College Graduate,Male
+100000,57,College Graduate,Female
+76000,31,High School Graduate,Male
+60000,35,College Graduate,Male
+25000,50,High School Graduate,Female
+82000,39,College Graduate,Male
+1300,28,High School Graduate,Female
+11000,31,High School Graduate,Male
+36000,49,High School Graduate,Female
+50000,31,High School Graduate,Male
+45000,39,College Graduate,Female
+50000,33,College Graduate,Female
+34000,49,High School Graduate,Female
+45000,28,High School Graduate,Female
+32000,37,College Graduate,Female
+4000,60,High School Graduate,Female
+56000,29,College Graduate,Female
+165000,30,College Graduate,Male
+40000,56,High School Graduate,Female
+68000,33,College Graduate,Female
+42000,61,High School Graduate,Female
+40000,27,College Graduate,Female
+49000,53,High School Graduate,Male
+80000,57,College Graduate,Female
+82000,32,College Graduate,Male
+72000,34,College Graduate,Male
+120000,60,High School Graduate,Male
+6800,37,College Graduate,Male
+14100,61,College Graduate,Male
+98000,31,College Graduate,Male
+50000,27,College Graduate,Female
+20800,52,High School Graduate,Male
+100000,37,College Graduate,Male
+12000,35,High School Graduate,Female
+50000,42,College Graduate,Female
+12000,62,College Graduate,Female
+31000,41,College Graduate,Male
+62000,29,College Graduate,Male
+19200,30,High School Graduate,Female
+13000,48,High School Graduate,Female
+90000,32,College Graduate,Male
+66000,61,College Graduate,Female
+94000,56,High School Graduate,Male
+9000,58,High School Graduate,Male
+84000,57,High School Graduate,Male
+65000,34,High School Graduate,Male
+28000,50,High School Graduate,Male
+70000,51,High School Graduate,Male
+25000,47,High School Graduate,Male
+65000,30,College Graduate,Female
+30000,40,High School Graduate,Male
+70000,50,High School Graduate,Male
+48800,59,High School Graduate,Male
+20000,62,High School Graduate,Female
+50000,39,High School Graduate,Male
+74000,59,College Graduate,Female
+36000,33,High School Graduate,Male
+40000,29,High School Graduate,Male
+85000,60,High School Graduate,Male
+120000,45,College Graduate,Female
+15600,46,High School Graduate,Female
+2800,53,High School Graduate,Male
+25000,57,High School Graduate,Female
+63000,41,High School Graduate,Male
+134000,55,College Graduate,Male
+65000,49,High School Graduate,Male
+35400,37,College Graduate,Female
+52000,30,College Graduate,Female
+26000,61,College Graduate,Female
+38000,47,High School Graduate,Male
+21000,48,High School Graduate,Male
+12000,36,High School Graduate,Male
+101000,57,College Graduate,Male
+12000,42,High School Graduate,Female
+40000,45,College Graduate,Male
+99000,34,High School Graduate,Male
+80000,50,College Graduate,Male
+56000,53,High School Graduate,Male
+100000,38,College Graduate,Female
+50000,32,College Graduate,Female
+65000,57,High School Graduate,Male
+93000,37,College Graduate,Female
+51000,58,High School Graduate,Male
+50000,53,College Graduate,Male
+30000,47,High School Graduate,Male
+22800,46,High School Graduate,Female
+92000,34,College Graduate,Female
+57000,32,College Graduate,Male
+5800,31,High School Graduate,Male
+5000,27,High School Graduate,Male
+37600,63,High School Graduate,Female
+2200,34,High School Graduate,Female
+78000,53,High School Graduate,Male
+80000,33,High School Graduate,Male
+34000,29,College Graduate,Male
+40000,33,College Graduate,Male
+50000,45,High School Graduate,Female
+40000,28,College Graduate,Male
+20000,36,High School Graduate,Male
+41800,52,High School Graduate,Female
+51000,45,High School Graduate,Female
+85000,42,College Graduate,Female
+36000,31,High School Graduate,Female
+33600,30,High School Graduate,Male
+22000,26,College Graduate,Female
+120000,32,College Graduate,Male
+10000,33,College Graduate,Male
+52000,62,High School Graduate,Female
+52000,37,College Graduate,Male
+85000,56,College Graduate,Male
+33500,52,College Graduate,Female
+18700,50,High School Graduate,Female
+120000,51,High School Graduate,Male
+15000,41,High School Graduate,Female
+225000,47,College Graduate,Female
+3000,38,High School Graduate,Male
+30000,56,High School Graduate,Female
+30000,28,High School Graduate,Female
+52000,55,High School Graduate,Female
+45000,27,High School Graduate,Male
+135000,63,College Graduate,Male
+10000,50,College Graduate,Female
+58000,32,College Graduate,Female
+10000,50,College Graduate,Female
+29000,36,High School Graduate,Male
+80000,48,College Graduate,Male
+3000,40,High School Graduate,Male
+40000,47,High School Graduate,Female
+45000,31,High School Graduate,Male
